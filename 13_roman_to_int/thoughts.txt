@@ -1,0 +1,7 @@
+store roman numbers in a key value pair object
+establish total
+FOR length of string:
+current = window traversal index
+next = next in array
+IF next exists, (edgecase mitigation) AND current less than next, subtract current from total. (subtraction roman rule)
+ELSE add key value to total
