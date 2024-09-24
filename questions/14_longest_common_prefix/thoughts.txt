@@ -1,0 +1,1 @@
+shortest possible prefix will be the max length ofg the shortest word.
