@@ -1,0 +1,2 @@
+modulus base 10 pops 1's digit to traverse string
+took time to comment code well
