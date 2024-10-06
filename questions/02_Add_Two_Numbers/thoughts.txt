@@ -1,0 +1,1 @@
+felt wrong to do a linked list question in JS because of the way JS handles arrays. Python was a more legitimate challenge.
