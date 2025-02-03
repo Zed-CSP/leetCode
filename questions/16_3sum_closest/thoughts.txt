@@ -1,0 +1,10 @@
+same as the 3sum in #15 I set an index and a left/right pointer
+if sum is too high, decriment right pointer
+if sum is too low, incriment left pointer
+used closestSum as a cache to carry the closest value soo far.
+should an exact sum be found return sum
+otherwise return closestsum
+setting closestsum to infinity garuntees that the first sum is always closer, requires Math.abs
+
+time complexity O(n^2)
+space complexity O(1)
