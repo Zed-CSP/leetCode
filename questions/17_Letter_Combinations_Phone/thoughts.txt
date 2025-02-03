@@ -1,0 +1,6 @@
+Manually defining dialMap is more efficient than dynamically generating it.
+Recursively loops through possible letters for the current digit.
+Moves forward (index + 1) while building the combination string.
+
+Time Complexity: O(3ⁿ or 4ⁿ) (depends on the number of letters per digit).
+Space Complexity: O(n) (depth of recursion stack).
