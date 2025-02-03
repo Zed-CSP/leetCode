@@ -1,0 +1,6 @@
+Similar to the 2 sum method, this strategy sets aside an index 'i' & nests a second loop of left and right pointers at the highest and lowest indexes in the rest of the sorted array. 
+When taking in the sum we can determine wether the sum above or below our target (in this case 0)
+if the sum of the triple is less than the target we need to move the left(lowest value) pointer to the next index of the remaining array.
+if the sum is more than the target, we need to move the right (highest value) pointer to the previous index of the remaining array.
+When adding a triple to our result we then need to continue searching for more solutions on that same first index, our left index must skip any duplicates.
+when moving our first index(i), we need to skip any duplicates as well
