@@ -1,0 +1,6 @@
+had to create a string for each row.
+spaces are decrimenting around an expanding 'core' of "*".
+incrimenting and decrimenting constructing functions created to handle, decriment called twice in construction.
+I realize this problem could legitimately completed hard coded but I left a function for variable n.
+
+its troubling that the platform would not submit and certify the solution
