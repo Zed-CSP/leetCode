@@ -1,0 +1,1 @@
+a better O((n^3)) solution isnt really possible so skipping repeated numbers in nums is the mosty efficient solution
