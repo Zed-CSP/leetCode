@@ -1,0 +1,3 @@
+this recursive callback is really hard to wrap your head around. 
+I got the code working, but I have a headache.
+ill be revisiting this.
