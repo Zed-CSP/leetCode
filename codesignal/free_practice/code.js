@@ -11,12 +11,12 @@ var pyramid = function(n) {
 
     for (let i = 0; i < n; i++) {
         row = ""
+
         Spaces(space)
         Stars(star)
-        if (stars > 1) Stars(star);
-        Spaces(space)     
+        Spaces(space)
         console.log(row)
-        star++
+        star = star + 2
         space--
     };
 };
