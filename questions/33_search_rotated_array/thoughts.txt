@@ -1,0 +1,1 @@
+binary search with additional condition trying to find which section of the array is sorted.
