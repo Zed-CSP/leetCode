@@ -1,0 +1,1 @@
+every solution is the combination of the last 2. follows fibionnacci
