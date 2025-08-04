@@ -1,0 +1,7 @@
+Sliding window technique is used to find the longest subarray containing at most two unique fruit types.
+Maintain a window with two baskets (at most two types).
+Expand the window to the right, adding fruits to a counter (dictionary).
+If a third fruit type appears, shrink the window from the left until only two types remain.
+Track the maximum window size throughout.
+Efficient: O(n) time, O(1) space (since only two types are ever tracked).
+Matches the constraint: pick from a contiguous section with at most two fruit types, maximizing the number collected.
